@@ -1,6 +1,13 @@
 # License
 License is a permission that can allow everyone to use sources,which includes to be used on Business, Distribution, Modification as well as  Private use.
+
+
+
 the statement following below
+
+
+
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
